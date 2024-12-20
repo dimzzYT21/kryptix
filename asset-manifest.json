@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fec30ed1.css",
+    "main.js": "/static/js/main.f7f43da3.js",
+    "static/media/fanbg.webp": "/static/media/fanbg.eb7c4774e758e6bdbc8c.webp",
+    "static/media/starsbg2.webp": "/static/media/starsbg2.b681e712fd8b81136262.webp",
+    "index.html": "/index.html",
+    "static/media/coinsmall.webp": "/static/media/coinsmall.f6f06ff640e5df45b650.webp",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.a5b7019dda60358716061674ac9c42b4.svg",
+    "static/media/twitter.svg": "/static/media/twitter.a24e975c9f26cf2cfa88cf838266778d.svg",
+    "static/media/facebook.svg": "/static/media/facebook.08ed0d64ea14d23ab0528a12be12499c.svg",
+    "static/media/telegram.svg": "/static/media/telegram.c7b359a0105dea5ce0362d65465c4633.svg",
+    "main.fec30ed1.css.map": "/static/css/main.fec30ed1.css.map",
+    "main.f7f43da3.js.map": "/static/js/main.f7f43da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec30ed1.css",
+    "static/js/main.f7f43da3.js"
+  ]
+}
